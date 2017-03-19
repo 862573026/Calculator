@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--导航栏的-->
+        <item name="colorPrimary">@color/DodgerBlue</item>
+        <!--标题的-->
+        <item name="colorPrimaryDark">@color/DodgerBlue</item>
+    </style>
+
+    <style name="AppThemeOrange" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--导航栏的-->
+        <item name="colorPrimary">@color/DarkOrange</item>
+        <!--标题的-->
+        <item name="colorPrimaryDark">@color/DarkOrange</item>
+    </style>
+
+    <style name="AppThemeGreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--导航栏的-->
+        <item name="colorPrimary">@color/SpringGreen</item>
+        <!--标题的-->
+        <item name="colorPrimaryDark">@color/SpringGreen</item>
+    </style>
+
+
+    <!--segment按钮-->
+    <style name="RadioButton">
+        <item name="android:textColor">@drawable/button_text_color</item>
+        <item name="android:minHeight">33dp</item>
+        <item name="android:minWidth">70dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+
+</resources>

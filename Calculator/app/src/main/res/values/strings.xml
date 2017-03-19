@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <!--theme-->
+    <string name="blue">蓝色</string>
+    <string name="green">绿色</string>
+    <string name="orange">橙色</string>
+
+    <string name="standard">标准</string>
+    <string name="scientific">科学</string>
+
+    <string name="sign_equal">=</string>
+    <string name="sign_back">←</string>
+    <string name="sign_clear">C</string>
+    <string name="sign_dot">.</string>
+    <string name="sign_multiply">×</string>
+    <string name="sign_divide">÷</string>
+    <string name="sign_add">+</string>
+    <string name="sign_reduce">-</string>
+
+
+</resources>

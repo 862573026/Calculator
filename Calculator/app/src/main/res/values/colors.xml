@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DodgerBlue">#1E90FF</color>
+    <color name="SpringGreen">#00FF7F</color>
+
+    <!--顶部segment-->
+    <color name="radio_button_selected_color">#ff33b5e5</color>
+    <color name="radio_button_unselected_color">#e0e0e0</color>
+</resources>
